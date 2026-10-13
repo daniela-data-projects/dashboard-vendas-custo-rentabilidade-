@@ -18,7 +18,7 @@ Abaixo, uma visão geral do dashboard desenvolvido, reunindo indicadores e visua
 
 O projeto utiliza tabelas de clientes, pedidos, produtos e vendas, conectadas por meio de relacionamentos. Essa estrutura permite integrar informações de diferentes tabelas e utilizá-las nas análises e visualizações do dashboard.
 
-![Modelo de Dados do Power BI](imagens/modelo_dados.png)
+![Modelo de Dados](./imagens/Modelo%20de%20dados.png)
 
 ## 🛠️ Ferramentas e tecnologias
 
