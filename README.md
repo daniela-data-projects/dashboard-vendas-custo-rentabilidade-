@@ -12,7 +12,7 @@ Este trabalho também fez parte do meu processo de aprendizado, permitindo coloc
 
 Abaixo, uma visão geral do dashboard desenvolvido, reunindo indicadores e visualizações para facilitar a análise dos resultados.
 
-![Dashboard de Vendas, Custos e Rentabilidade](imagens/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## 🗂️ Modelo de dados
 
